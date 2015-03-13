@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+NETWORK:
+*
+
+CACHE:
+index.html
+login.html
+
+css/jquery.mobile-1.4.5.css
+css/images/ajax-loader.gif
+
+js/lib/jquery-1.11.1.js
+js/lib/jquery.mobile-1.4.5.js
